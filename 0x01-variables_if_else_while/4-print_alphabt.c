@@ -2,7 +2,7 @@
 int main ()
 {
 	char c = 'a';
-	while ( c <= 'a' || c != 'e' || 'q' )
+	while ( c <= 'a' || c != 'e' || c != 'q' )
 	{
 		putchar(c);
 		c++;
