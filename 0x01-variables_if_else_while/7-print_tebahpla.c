@@ -3,15 +3,14 @@
 /**
  * main - entry point
  *
- * Return: Always 0 (Success)
- *
+ * Return: always 0 (success)
  */
 
 int main(void)
 {
 	char ch = 'z';
 
-	while(ch => 'a')
+	while (ch >= 'a')
 	{
 		putchar(ch);
 		ch--;
