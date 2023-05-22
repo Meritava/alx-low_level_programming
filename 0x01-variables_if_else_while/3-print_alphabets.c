@@ -14,6 +14,8 @@ int main (void)
 	{
 		putchar(ch);
 		ch++;
+	}
+	{
 		putchar(CH);
 		CH++;
 	}
